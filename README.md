@@ -71,7 +71,8 @@ print(summary)
 
 ## Output:
 
-![alt text](image.png)
+<img width="1403" height="322" alt="image" src="https://github.com/user-attachments/assets/ab45264a-0ad4-4dcd-af7c-3e6d9d0fdadb" />
+
 
 ## Result:
 Thus ,the program to perform the Text summarization is executed sucessfully.
